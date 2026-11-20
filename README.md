@@ -80,4 +80,4 @@ This project is intended for educational purposes and networking practice.
 
 ## Author
 
-**Pradipta Raditya**
+**Kinervaaa**
